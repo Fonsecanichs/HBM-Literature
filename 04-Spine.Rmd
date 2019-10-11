@@ -1,0 +1,16 @@
+# Spine Injuries
+
+
+## Cervical Spine
+
+
+## Thoracic Spine
+
+
+## Lumbar Spine
+
+Lumbar spine injuries in frontal collision
+
+- Burst fractures of the lumbar spine in frontal crashes `r citep("10.1016/j.aap.2013.05.023")`
+
+- Thoracolumbar Spine Fractures in Frontal Impact Crashes [@Pintar2012]

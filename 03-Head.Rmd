@@ -1,0 +1,12 @@
+# Head Injuries
+
+We describe our methods in this chapter.
+## Brain
+
+### Models
+
+
+### Experiments
+
+- [@Li2019]: A Comprehensive Study on the Mechanical Properties of Different Regions of 8-week-old Pediatric Porcine Brain under Tension, Shear, and Compression at Various Strain Rates
+

@@ -1,0 +1,17 @@
+# Thoracic Injuries 
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Rib injuries
+
+- Detailed subject-specific FE rib modeling for fracture prediction [@Iraeus2019]
+
+
+- GHBMC M50-O:Evaluation of Skeletal and Soft Tissue Contributions to Thoracic Response, Dynamic Frontal Loading Scenarios [@Ramachandra2019]
+  - Experimental data: [@Murach2018]
+
+
+
+
+
+## Soft tissue injuries

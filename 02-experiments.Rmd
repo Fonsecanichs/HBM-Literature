@@ -1,0 +1,16 @@
+
+# Human experiments
+
+## Human volunteers
+
+## Post-mortem human subjects (PMHS)
+
+- [@Shaw2009] :  Impact Response of Restrained (PMHS) in Frontal Sled Tests: Skeletal Deformation Patterns Under Seat Belt Loading
+
+## Dummies
+
+- [@Viano2018]: Rear-seat occupant in rear crash test (NHTSA)
+
+## Biofidelity
+
+- A Methodology for Generating Objective Targets for Quantitatively Assessing the Biofideltiy of crash test dummies [@Rhule2009]

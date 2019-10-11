@@ -1,0 +1,6 @@
+# Human Body Models 
+
+
+## New Seat Configurations
+
+- A Human Modelling Study on Occupant Kinematics in Highly Reclined Seats during Frontal Crashes [@Boyle2019]
