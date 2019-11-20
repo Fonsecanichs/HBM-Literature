@@ -362,4 +362,17 @@
   publisher = {Frontiers Media {SA}},
 }
 
+@Article{Wang2018,
+  author    = {Fang Wang and Yong Han and Bingyu Wang and Qian Peng and Xiaoqun Huang and Karol Miller and Adam Wittek},
+  title     = {Prediction of brain deformations and risk of traumatic brain injury due to closed-head impact: quantitative analysis of the effects of boundary conditions and brain tissue constitutive model},
+  journal   = {Biomechanics and Modeling in Mechanobiology},
+  year      = {2018},
+  volume    = {17},
+  number    = {4},
+  pages     = {1165--1185},
+  month     = {may},
+  doi       = {10.1007/s10237-018-1021-z},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

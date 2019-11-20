@@ -1,8 +1,13 @@
-# Spine Injuries
+# Spine
 
+- @Sato2019: Relationship Between Cervical, Thoracic and Lumbar Spinal Alignments in Automotive Seated Posture
 
 ## Cervical Spine
 
+- @Zhou2019 : Intervertebral Range of Motion Characteristics of Normal Cervical Spinal Segments (C0-T1) during In Vivo Neck  (dual fluroscopy)  
+Related papers
+  - @Wang2008: Measurement of Vertebral Kinematics Using Noninvasive Image Matching Method–Validation and Application
+  - @Yu2017: Ranges of Cervical Intervertebral Disc Deformation During an In Vivo Dynamic Flexion–Extension of the Neck
 
 ## Thoracic Spine
 
@@ -11,6 +16,6 @@
 
 Lumbar spine injuries in frontal collision
 
-- Burst fractures of the lumbar spine in frontal crashes `r citep("10.1016/j.aap.2013.05.023")`
+- @Kaufman2013: Burst fractures of the lumbar spine in frontal crashes
 
-- Thoracolumbar Spine Fractures in Frontal Impact Crashes [@Pintar2012]
+- @Pintar2012: Thoracolumbar Spine Fractures in Frontal Impact Crashes 

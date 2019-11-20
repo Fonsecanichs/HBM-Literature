@@ -1,0 +1,425 @@
+\documentclass[]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Literature Collection: HBM and Injury Prevention},
+            pdfauthor={Jobin},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Literature Collection: HBM and Injury Prevention}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{Jobin}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{2019-11-07}
+
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter{Introduction}\label{introduction}}
+
+\hypertarget{human-body-models}{%
+\chapter{Human Body Models}\label{human-body-models}}
+
+\hypertarget{rear-impact}{%
+\section{Rear Impact}\label{rear-impact}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Katagiri2019}: Biofidelity Evaluation of GHBMC Male Occupant Models in Rear Impact
+\end{itemize}
+
+\begin{quote}
+The NHTSA Biofidelity Ranking System was used to evaluate the HBMs. The HBMs exhibited better biofidelity 1) at 17 km/h than 24 km/h, and 2) in the head to T1 region, which is relevant to rear-impact-related injuries, than the T1 to pelvis region. The detailed HBM received a better biofidelity score than the simplified HBM in every studied component. Limitations for the HBMs' biofidelity were indicated in the modelling of their spines and surrounding flesh.
+\end{quote}
+
+\hypertarget{frontal-impact}{%
+\section{Frontal impact}\label{frontal-impact}}
+
+\begin{itemize}
+\item
+  \citet{Devane2019}: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests
+  \#GHBMC
+\item
+  \citet{Hu2019}: Frontal crash simulations using parametric human models representing a diverse population
+\end{itemize}
+
+\begin{quote}
+Frontal crash simulations based on U.S. New Car Assessment Program (U.S. NCAP) were conducted. Body region injury risks were calculated based on the risk curves used in the US NCAP, except that scaling was used for the neck, chest, and knee--thigh--hip injury risk curves based on the sizes of the bony structures in the corresponding body regions. Age effects were also considered for predicting chest injury risk.
+
+Results: The simulations demonstrated that driver stature and body shape affect occupant interactions with the restraints and consequently affect occupant kinematics and injury risks in severe frontal crashes. U-shaped relations between occupant stature/weight and head injury risk were observed. Chest injury risk was strongly affected by age and sex, with older female occupants having the highest risk. A strong correlation was also observed between BMI and knee--thigh--hip injury risk, whereas none of the occupant parameters meaningfully affected neck injury risks.
+\end{quote}
+
+\hypertarget{side-impact}{%
+\section{Side Impact}\label{side-impact}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Hwang2019}: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Dual-sled model validated with SID, SID-II: \citet{Hwang2016} (Development, Evaluation, and Sensitivity Analysis of Parametric Finite Element Whole-Body Human Models in Side Impacts)
+  \end{itemize}
+\end{itemize}
+
+\begin{quote}
+With weight, stature, sex, and age of PMHS, seven FE HBMs were developed by morphing the midsize male THUMS model into the target geometries predicted by the statistical skeleton and external body shape models. The model-predicted force histories, accelerations a long the spine, and deflections in the chest and abdomen were compared to the test data. For comparison, simulations in all testing conditions were also conducted with the original midsize male THUMS, and the results from the THUMS simulations were scaled to the weight and stature from each PMHS.
+\end{quote}
+
+\citep{Hwang2019}
+
+\hypertarget{oblique-impact}{%
+\section{Oblique Impact}\label{oblique-impact}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Perez-rapela2019}: Comparison of the simplified GHBMC to PMHS kinematics in far-side impact
+\end{itemize}
+
+\begin{quote}
+Results show that, in general, the simplified GHBMC captures lateral excursion in oblique impact conditions but overpredicts in purely lateral impact conditions. The simplified GHBMC shows post-mortem human subject like sensitivities to changes in ΔV and the use of pretensioner but no sensitivity to changes in impact direction. The human body model performs similarly to other previously published HBMs and obtains a ``good'' CORA score. However, the surrogate does not represent post-mortem human subject shoulder-to-belt interaction in all configurations.
+\end{quote}
+
+\hypertarget{vulnerable-population}{%
+\section{Vulnerable population}\label{vulnerable-population}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Larsson2019}: Evaluation of the Benefits of Parametric Human Body Model Morphing for Prediction of Injury to Elderly Occupants in Side Impact
+\end{itemize}
+
+\begin{quote}
+Side-impact sled tests conducted with these PMHS were recreated by means of simulations with the baseline and morphed HBMs. Results showed that the parametrically morphed models showed improved correlation with PMHS kinematics compared with the baseline HBM predictions and performed as well as the further personalized models. Both parametric and personalized HBMs failed to predict the PMHS chestband deflection magnitudes and predicted no risk for rib fractures. In contrast, both PMHS sustained multiple fractured ribs during testing. In conclusion, parametric HBM morphing alone improved prediction of individual kinematics, but neither morphing method improved individual injury risk prediction.
+\end{quote}
+
+\hypertarget{future-seat-configurations}{%
+\section{Future Seat Configurations}\label{future-seat-configurations}}
+
+\begin{itemize}
+\item
+  \citet{Boyle2019}: A Human Modelling Study on Occupant Kinematics in Highly Reclined Seats during Frontal Crashes
+\item
+  \citet{Rawska2019}: Submarining sensitivity across varied anthropometry in an autonomous driving system environment
+\end{itemize}
+
+\hypertarget{human-experiments}{%
+\chapter{Human experiments}\label{human-experiments}}
+
+\hypertarget{human-volunteers}{%
+\section{Human volunteers}\label{human-volunteers}}
+
+\hypertarget{restraint-systems}{%
+\subsection{Restraint systems}\label{restraint-systems}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citep{Reed2019} : Posture and belt fit in reclined passenger seats
+\end{itemize}
+
+\begin{quote}
+Regression analysis demonstrated that the pelvis rotated rearward and lumbar spine flexion decreased with increasing recline. The lap portion of the 3-point belt was more rearward relative to the pelvis in more-reclined postures, and the torso portion crossed the clavicle closer to the midline of the body. Regression equations were developed to predict posture and belt fit variables as a function of passenger characteristics, seat back angle, and the use of the headrest.
+\end{quote}
+
+\hypertarget{precrash}{%
+\subsection{Precrash}\label{precrash}}
+
+\begin{itemize}
+\item
+  \citet{Graci2019}: Effect of automated versus manual emergency braking on rear seat adult and pediatric occupant precrash motion
+\item
+  \citet{Ghaffari2019}: Passenger muscle responses in lane change and lane change with braking maneuvers using two belt configurations: Standard and reversible pre-pretensioner
+\end{itemize}
+
+\hypertarget{post-mortem-human-subjects-pmhs}{%
+\section{Post-mortem human subjects (PMHS)}\label{post-mortem-human-subjects-pmhs}}
+
+\begin{itemize}
+\item
+  \citet{Richardson2019} : Test Methodology for Evaluating the Reclined Seating Environment With Human Surrogates
+\item
+  Kang, 2018, IRCOBI : Head neck PMHS, frontal, oblique, side and twist scenarios
+\item
+  Shurtz et al., 2018, Small female side impact
+\item
+  \citet{Shaw2009} : Impact Response of Restrained (PMHS) in Frontal Sled Tests: Skeletal Deformation Patterns Under Seat Belt Loading
+\end{itemize}
+
+\hypertarget{dummies}{%
+\section{Dummies}\label{dummies}}
+
+\begin{itemize}
+\item
+  \citep{Viano2018}: Rear-seat occupant in rear crash test (NHTSA)
+\item
+  Parent et al., 2017, Stapp, THOR vs HIII 50th male in frontal impact
+\end{itemize}
+
+\hypertarget{biofidelity}{%
+\section{Biofidelity}\label{biofidelity}}
+
+\begin{itemize}
+\tightlist
+\item
+  A Methodology for Generating Objective Targets for Quantitatively Assessing the Biofideltiy of crash test dummies \citep{Rhule2009}
+\end{itemize}
+
+\hypertarget{head}{%
+\chapter{Head}\label{head}}
+
+\hypertarget{brain}{%
+\section{Brain}\label{brain}}
+
+\hypertarget{models}{%
+\subsection{Models}\label{models}}
+
+\hypertarget{experiments}{%
+\subsection{Experiments}\label{experiments}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citep{Li2019}: A Comprehensive Study on the Mechanical Properties of Different Regions of 8-week-old Pediatric Porcine Brain under Tension, Shear, and Compression at Various Strain Rates
+\end{itemize}
+
+\hypertarget{spine}{%
+\chapter{Spine}\label{spine}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Sato2019}: Relationship Between Cervical, Thoracic and Lumbar Spinal Alignments in Automotive Seated Posture
+\end{itemize}
+
+\hypertarget{cervical-spine}{%
+\section{Cervical Spine}\label{cervical-spine}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Zhou2019} : Intervertebral Range of Motion Characteristics of Normal Cervical Spinal Segments (C0-T1) during In Vivo Neck (dual fluroscopy)\\
+  Related papers
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \citet{Wang2008}: Measurement of Vertebral Kinematics Using Noninvasive Image Matching Method--Validation and Application
+  \item
+    \citet{Yu2017}: Ranges of Cervical Intervertebral Disc Deformation During an In Vivo Dynamic Flexion--Extension of the Neck
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{thoracic-spine}{%
+\section{Thoracic Spine}\label{thoracic-spine}}
+
+\hypertarget{lumbar-spine}{%
+\section{Lumbar Spine}\label{lumbar-spine}}
+
+Lumbar spine injuries in frontal collision
+
+\begin{itemize}
+\item
+  \citet{Kaufman2013}: Burst fractures of the lumbar spine in frontal crashes
+\item
+  \citet{Pintar2012}: Thoracolumbar Spine Fractures in Frontal Impact Crashes
+\end{itemize}
+
+\hypertarget{shoulder-and-upper-extremity}{%
+\chapter{Shoulder and Upper Extremity}\label{shoulder-and-upper-extremity}}
+
+\hypertarget{shoulder}{%
+\section{Shoulder}\label{shoulder}}
+
+\hypertarget{upper-extremity}{%
+\section{Upper Extremity}\label{upper-extremity}}
+
+\hypertarget{thorax}{%
+\chapter{Thorax}\label{thorax}}
+
+\hypertarget{rib-injuries}{%
+\section{Rib injuries}\label{rib-injuries}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Katzenberger2020}: Effects of sex, age, and two loading rates on the tensile material properties of human rib cortical bone
+\end{itemize}
+
+\begin{quote}
+There were no significant differences in material properties between sexes and no significant interactions between age and sex.
+\end{quote}
+
+\begin{quote}
+Spearman correlation analyses showed that all material properties had significant negative correlations with age at 0.005 strain/s except modulus. At 0.5 strain/s, all material properties except yield strain had significant negative correlations with age. Although the results revealed that the material properties of human rib cortical bone varied significantly with respect to chronological age, the R2 values only ranged from 0.15 to 0.62, indicating that there may be other underlying variables that better account for the variance within a given population.
+\end{quote}
+
+\begin{itemize}
+\item
+  \citet{Iraeus2019}: Detailed subject-specific FE rib modeling for fracture prediction
+\item
+  \citet{Ramachandra2019}: GHBMC M50-O:Evaluation of Skeletal and Soft Tissue Contributions to Thoracic Response, Dynamic Frontal Loading Scenarios
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Experimental data: \citep{Murach2018}
+  \end{itemize}
+\item
+  Human Rib Fracture Characteristics and Relationships with Structural Properties \citep{Harden2019}
+\end{itemize}
+
+\begin{quote}
+Ribs (n=347) were impacted in a dynamic bending scenario representing a frontal thoracic impact. Fracture characteristics (location, classification, number, and severity) were analyzed utilizing a new classification system.
+Structural properties (peak and yield force, \%peak and yield displacement, linear structural stiffness, total energy, plastic energy, and ductility/brittleness) were calculated from test data for each rib and their relationships with fracture characteristics were assessed. Three structural properties (\%peak displacement, total energy, and plastic energy) were found to have significant differences with all fracture characteristics except fracture location. However, the significant differences were only found in specific comparisons within each fracture characteristic. Fracture location was only found to have a significant relationship with \% peak displacement.
+\end{quote}
+
+\hypertarget{internal-organ-injuries}{%
+\section{Internal organ injuries}\label{internal-organ-injuries}}
+
+\hypertarget{abdomen-and-pelvis}{%
+\chapter{Abdomen and Pelvis}\label{abdomen-and-pelvis}}
+
+\hypertarget{abdomen}{%
+\section{Abdomen}\label{abdomen}}
+
+\begin{itemize}
+\tightlist
+\item
+  Ramachandra 2016, Stapp, PMHS abdominal seat belt loading
+\item
+  Howes et al., 2012, Stapp, PMHS experiments using biplanar X-rays, thoracoabdominal contents
+\item
+  Lamielle et al., 2008, Stapp, 3D deformation and dynamics of the human cadaver abdomen under seatbelt loading
+\end{itemize}
+
+\hypertarget{pelvis}{%
+\section{Pelvis}\label{pelvis}}
+
+\hypertarget{adipose-tissue}{%
+\section{Adipose Tissue}\label{adipose-tissue}}
+
+\begin{itemize}
+\tightlist
+\item
+  Abdominal and breast adipose tissue viscoelastic properties \citep{Calvo-Gallego2019}
+\end{itemize}
+
+\hypertarget{lower-extremities}{%
+\chapter{Lower Extremities}\label{lower-extremities}}
+
+\hypertarget{morphology}{%
+\section{Morphology}\label{morphology}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Audenaert2019}: Lower extremity statistical shape models, Gender differences, asymmetry
+\end{itemize}
+
+\hypertarget{miscellaneous}{%
+\chapter{Miscellaneous}\label{miscellaneous}}
+
+\hypertarget{muscles}{%
+\section{Muscles}\label{muscles}}
+
+Tamura 2019: Elastic tensile behavior of \href{https://www.sciencedirect.com/science/article/pii/S0268003318307083}{muscle fiber bundles in traumatic loading conditions}
+
+Neumann 2019: Regional variations of in vivo surface stiffness of \href{https://www.sciencedirect.com/science/article/pii/S0021929019305135?dgcid=raven_sd_aip_email}{soft tissue layer in extremities}
+
+\bibliography{manual-ref.bib}
+
+
+\end{document}

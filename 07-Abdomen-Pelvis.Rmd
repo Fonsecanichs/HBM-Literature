@@ -1,9 +1,17 @@
-# Abdomen and Pelvis Injuries
+# Abdomen and Pelvis
 
-Some _significant_ applications are demonstrated in this chapter.
 
 ## Abdomen
+
+- Ramachandra 2016, Stapp, PMHS abdominal seat belt loading
+- Howes et al., 2012, Stapp, PMHS experiments using biplanar X-rays, thoracoabdominal contents
+- Lamielle et al., 2008, Stapp, 3D deformation and dynamics of the human cadaver abdomen under seatbelt loading
+
 
 ## Pelvis
 
 
+
+## Adipose Tissue
+
+- Abdominal and breast adipose tissue viscoelastic properties [@Calvo-Gallego2019]
