@@ -118,12 +118,18 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Brain
 
+
 ### Models
+
+- @Wang2018: quantitative analysis of the effects of boundary conditions and brain tissue constitutive model, Prediction of brain deformations and risk of traumatic brain injury due to closed-head impact
+#THUMS4
+
+> The brain–skull interface models included direct representation of the brain meninges and cerebrospinal fluid, outer brain surface rigidly attached to the skull, frictionless sliding contact between the brain and skull, and a layer of spring-type cohesive elements between the brain and skull. We considered Ogden hyperviscoelastic, Mooney–Rivlin hyperviscoelastic, neo–Hookean hyperviscoelastic and linear viscoelastic constitutive models of the brain tissue. Our study indicates that the predicted deformations within the brain and related brain injury criteria are strongly affected by both the approach of modelling the brain–skull interface and the constitutive model of the brain parenchyma tissues. 
 
 
 ### Experiments
 
-- [@Li2019]: A Comprehensive Study on the Mechanical Properties of Different Regions of 8-week-old Pediatric Porcine Brain under Tension, Shear, and Compression at Various Strain Rates
+- @Li2019: A Comprehensive Study on the Mechanical Properties of Different Regions of 8-week-old Pediatric Porcine Brain under Tension, Shear, and Compression at Various Strain Rates
 
 
 <!--chapter:end:03-Head.Rmd-->
