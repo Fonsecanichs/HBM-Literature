@@ -3,6 +3,12 @@
 
 ## Human volunteers
 
+- @Higuchi2019: Behavior of ATD, PMHS and Human Volunteer in Frontal Crash Test
+
+> We accessed high speed human volunteer test data which had completed in the 1970's in United States sponsored by National Highway Traffic Safety Administration (NHTSA) from NHTSA`s archives. In this report we compared these high speed human volunteer test results with our previous work and concluded the excursion of human volunteer is less than the excursion of PMHS at higher speeds, mimicking the findings at lower speeds. 
+
+
+
 ### Restraint systems
 
 - [@Reed2019] : Posture and belt fit in reclined passenger seats
@@ -31,7 +37,10 @@
 
 ## Dummies
 
-- [@Viano2018]: Rear-seat occupant in rear crash test (NHTSA)
+- @Whyte2019: Frontal crash seat belt restraint effectiveness and comfort accessories used by older occupants
+
+
+- @Viano2018: Rear-seat occupant in rear crash test (NHTSA)
 
 - Parent et al., 2017, Stapp, THOR vs HIII 50th male in frontal impact
 

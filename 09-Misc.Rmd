@@ -1,9 +1,0 @@
-# Miscellaneous
-
-## Muscles
-
-Tamura 2019: Elastic tensile behavior of [muscle fiber bundles in traumatic loading conditions](https://www.sciencedirect.com/science/article/pii/S0268003318307083)
-
-Neumann 2019: Regional variations of in vivo surface stiffness of [soft tissue layer in extremities](https://www.sciencedirect.com/science/article/pii/S0021929019305135?dgcid=raven_sd_aip_email)
-
-

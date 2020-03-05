@@ -9,9 +9,13 @@
 
 ## Frontal impact
 
+- @Tang2020: A numerical investigation of factors affecting lumbar spine injuries in frontal crashes #HIII
 
-- @Devane2019: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests
-#GHBMC
+> Parametric simulations were conducted using a set of validated vehicle driver compartment model, restraint system model, and a HIII mid-size male crash test dummy model. Risk factors considered in the study included occupant seating posture, crash pulse, vehicle pitch angle, seat design, anchor pre-tensioner, dynamic locking tongue, and shoulder belt load limiter. 
+
+
+
+- @Devane2019: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests #GHBMC
 
 - @Hu2019: Frontal crash simulations using parametric human models representing a diverse population
 
@@ -19,7 +23,11 @@
 >
 Results: The simulations demonstrated that driver stature and body shape affect occupant interactions with the restraints and consequently affect occupant kinematics and injury risks in severe frontal crashes. U-shaped relations between occupant stature/weight and head injury risk were observed. Chest injury risk was strongly affected by age and sex, with older female occupants having the highest risk. A strong correlation was also observed between BMI and knee–thigh–hip injury risk, whereas none of the occupant parameters meaningfully affected neck injury risks.
 
+- @Schap2018: Objective Evaluation of Whole Body Kinematics in a Simulated, Restrained Frontal Impact
+
 ## Side Impact
+
+- @PerezRapela2020: Methodology for the Evaluation of Human Response Variability to Intrinsic and Extrinsic Factors Including Uncertainties
 
 - @Hwang2019: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
     + Dual-sled model validated with SID, SID-II: @Hwang2016 (Development, Evaluation, and Sensitivity Analysis of Parametric Finite Element Whole-Body Human Models in Side Impacts)
@@ -36,11 +44,18 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 > Results  show  that,  in  general,  the  simplified  GHBMC  captures  lateral  excursion  in  oblique  impact conditions but overpredicts in purely lateral impact conditions. The simplified GHBMC shows post-mortem human subject like sensitivities to changes in ΔV  and  the  use  of  pretensioner  but  no  sensitivity  to  changes  in  impact direction. The human body model performs similarly to other previously published HBMs and obtains a “good”  CORA  score.  However,  the  surrogate  does  not  represent  post-mortem  human  subject  shoulder-to-belt interaction in all configurations. 
 
+
+## Pedestrian 
+
+- @Decker2019: Evaluation of finite element human body models for use in a standardized protocol for pedestrian safety assessment
+
 ## Vulnerable population
 
 - @Larsson2019: Evaluation of the Benefits of Parametric Human Body Model Morphing for Prediction of Injury to Elderly Occupants in Side Impact    
 
 > Side-impact sled tests conducted  with  these  PMHS  were  recreated  by  means  of  simulations  with  the  baseline  and  morphed  HBMs.  Results  showed  that  the  parametrically  morphed  models  showed  improved  correlation  with  PMHS  kinematics  compared  with  the  baseline  HBM  predictions  and  performed  as  well  as  the  further  personalized  models.  Both  parametric and personalized HBMs failed to predict the PMHS chestband deflection magnitudes and predicted no risk for rib fractures. In contrast, both PMHS sustained multiple fractured ribs during testing. In conclusion, parametric  HBM morphing alone improved  prediction  of  individual  kinematics, but neither  morphing  method improved individual injury risk prediction.
+
+
 
 ## Future Seat Configurations
 

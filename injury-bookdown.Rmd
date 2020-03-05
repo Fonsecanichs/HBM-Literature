@@ -29,9 +29,13 @@ description: "A collection a scientific literature on Injury Prevention, with a 
 
 ## Frontal impact
 
+- @Tang2020: A numerical investigation of factors affecting lumbar spine injuries in frontal crashes #HIII
 
-- @Devane2019: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests
-#GHBMC
+> Parametric simulations were conducted using a set of validated vehicle driver compartment model, restraint system model, and a HIII mid-size male crash test dummy model. Risk factors considered in the study included occupant seating posture, crash pulse, vehicle pitch angle, seat design, anchor pre-tensioner, dynamic locking tongue, and shoulder belt load limiter. 
+
+
+
+- @Devane2019: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests #GHBMC
 
 - @Hu2019: Frontal crash simulations using parametric human models representing a diverse population
 
@@ -40,6 +44,8 @@ description: "A collection a scientific literature on Injury Prevention, with a 
 Results: The simulations demonstrated that driver stature and body shape affect occupant interactions with the restraints and consequently affect occupant kinematics and injury risks in severe frontal crashes. U-shaped relations between occupant stature/weight and head injury risk were observed. Chest injury risk was strongly affected by age and sex, with older female occupants having the highest risk. A strong correlation was also observed between BMI and knee–thigh–hip injury risk, whereas none of the occupant parameters meaningfully affected neck injury risks.
 
 ## Side Impact
+
+- @PerezRapela2020: Methodology for the Evaluation of Human Response Variability to Intrinsic and Extrinsic Factors Including Uncertainties
 
 - @Hwang2019: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
     + Dual-sled model validated with SID, SID-II: @Hwang2016 (Development, Evaluation, and Sensitivity Analysis of Parametric Finite Element Whole-Body Human Models in Side Impacts)
@@ -75,6 +81,12 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Human volunteers
 
+- @Higuchi2019: Behavior of ATD, PMHS and Human Volunteer in Frontal Crash Test
+
+> We accessed high speed human volunteer test data which had completed in the 1970's in United States sponsored by National Highway Traffic Safety Administration (NHTSA) from NHTSA`s archives. In this report we compared these high speed human volunteer test results with our previous work and concluded the excursion of human volunteer is less than the excursion of PMHS at higher speeds, mimicking the findings at lower speeds. 
+
+
+
 ### Restraint systems
 
 - [@Reed2019] : Posture and belt fit in reclined passenger seats
@@ -103,7 +115,10 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Dummies
 
-- [@Viano2018]: Rear-seat occupant in rear crash test (NHTSA)
+- @Whyte2019: Frontal crash seat belt restraint effectiveness and comfort accessories used by older occupants
+
+
+- @Viano2018: Rear-seat occupant in rear crash test (NHTSA)
 
 - Parent et al., 2017, Stapp, THOR vs HIII 50th male in frontal impact
 
@@ -115,6 +130,16 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 # Head
 
+- @Bruneau2019: Head and Neck Response of an Active Human Body Model and Finite Element Anthropometric Test Device During a Linear Impactor Helmet Test
+
+> Although responses that develop over longer durations following the impact differed slightly, such as the moment at the base of the neck, this occurred later in time, and therefore, did not considerably affect the short-term head kinematics in the primary impact direction. Though muscle activation did not play a strong role in the head response for the test configurations considered, muscle activation may play a role in longer duration events.
+
+
+- @Miller2019: An envelope of linear and rotational head motion during everyday activities
+
+> The peak resultant linear accelerations of the head reported in the literature were all less than 15 g, while the peak resultant rotational accelerations and rotational velocities approach 1375 rad/s2 and 12.8 rad/s, respectively.
+
+- @Chang2019: Evaluation of Human Nasal Cartilage Nonlinear and Rate Dependent Mechanical Properties
 
 ## Brain
 
@@ -132,13 +157,40 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 - @Li2019: A Comprehensive Study on the Mechanical Properties of Different Regions of 8-week-old Pediatric Porcine Brain under Tension, Shear, and Compression at Various Strain Rates
 
 
+
+### Sports
+
+- @Kent2019: The Biomechanics of Concussive Helmet-to-Ground Impacts in the National Football League
+
+> Video analysis was performed for 16 head-to-ground impacts that caused concussions. Average resultant closing velocity was 8.3 m/s at an angle nearly 45° to the surface. Preimpact rotational velocity of the helmet ranged from negligible to as high as 54.1 rad/s. Helmet impacts were concentrated on the posterior and lateral aspects.
+
+
 <!--chapter:end:03-Head.Rmd-->
 
 # Spine
 
+- @Zhang2020: Moment-rotation behavior of intervertebral joints in flexion-extension, lateral bending, and axial rotation at all levels of the human spine: A structured review and meta-regression analysis
+
+- @Afquir2020: Descriptive analysis of the effect of back protector on the prevention of vertebral and thoracolumbar injuries in serious motorcycle accident
+
+
+- @Nishida2019: Changes in the Global Spine Alignment in the Sitting Position in an Automobile
+
+> Changing posture from standing to sitting decreased CL by an average of 5.3°, slightly decreased TK by an average of 1.3°, increased TLK by an average of 6.8°, decreased LL by an average of 35°, decreased SS by an average of 49.2°, increased PT by an average of 49.2°, shifted C7-SVA backward by an average of 106.7 mm, decreased T1SPI by an average of 18.8°, and increased TPA by an average of 21.1°. 
+
+- @Simond2019: Discovery of a New Ligament of the Lumbar Spine: The Midline Interlaminar Ligament
+
+> Twenty-six out of thirty-four (76.5%) lumbar levels were found to have a MIL traveling on the internal aspect of the most medial aspect of the laminae and positioned slightly anterior to the plane of the ligamenta flava.
+The mean length and width of the MIL were 9.03±4.29 mm and 4.94±1.56 mm, respectively. The mean force necessary until failure for the MIL was 12.3N.
+
+
 - @Sato2019: Relationship Between Cervical, Thoracic and Lumbar Spinal Alignments in Automotive Seated Posture
 
 ## Cervical Spine
+
+- @Tisherman2019:  Biomechanical Contribution of the Alar Ligaments to Upper Cervical Stability
+
+> The alar ligaments also contributed to resistance to intact motion in extension (13.4 ± 6.6%, p < 0.05), flexion (4.4 ± 2.2%, p < 0.05), axial rotation (19.3 ± 2.7%, p < 0.05), and lateral bending (16.0 ± 2.8%, p < 0.05). 
 
 - @Zhou2019 : Intervertebral Range of Motion Characteristics of Normal Cervical Spinal Segments (C0-T1) during In Vivo Neck  (dual fluroscopy)  
 Related papers
@@ -163,6 +215,18 @@ Lumbar spine injuries in frontal collision
 
 
 ## Shoulder
+
+- @Mulla2019: Glenohumeral stabilizing roles of the scapulohumeral muscles: Implications of muscle geometry
+
+
+- @Kian2019: Static optimization underestimates antagonist muscle activity at the glenohumeral joint: A musculoskeletal modeling study
+
+- @Bouaicha2019: Biomechanical analysis of the humeral head coverage, glenoid inclination and acromio-glenoidal height as isolated components of the critical shoulder angle in a dynamic cadaveric shoulder model
+
+> All three components (acromial coverage, glenoid inclination or acromial height) had an effect on either muscle forces and or joint reaction forces. While glenoid inclination showed the highest impact on joint stability with increasing upward-tilting causing cranial subluxation, changing of the lateral acromial coverage or acromial height had less influence on stability but showed significant alteration of joint reaction forces.
+
+- @Cudlip2019: The ability of surface electromyography to represent supraspinatus anterior and posterior partition activity depends on elevation angle, hand load and plane of elevation
+
 
 
 ## Upper Extremity
@@ -194,6 +258,7 @@ Structural properties (peak and yield force, %peak and yield displacement, linea
 
 
 
+
 ## Internal organ injuries
 
 <!--chapter:end:06-Thorax.Rmd-->
@@ -210,7 +275,12 @@ Structural properties (peak and yield force, %peak and yield displacement, linea
 
 ## Pelvis
 
+- @Casaroli2019: What do we know about the biomechanics of the sacroiliac joint and of sacropelvic fixation? A literature review
 
+> Additionally, this study aims to support biomechanical investigations in defining experimental protocols as well as numerical modeling of the sacropelvic structures. The sacroiliac joint is characterized by a large variability of shape and ranges of motion among individuals. Although the ligament network and the anatomical features strongly limit the joint movements, sacroiliac displacements and rotations are not negligible.
+
+
+- @Yoganandan2019: Pelvis injury risk curves in **side impacts** from human cadaver experiments using survival analysis and Brier score metrics
 
 ## Adipose Tissue
 
@@ -220,10 +290,19 @@ Structural properties (peak and yield force, %peak and yield displacement, linea
 
 # Lower Extremities
 
+- @Derrick2019: ISB recommendations on the reporting of intersegmental forces and moments during human motion analysis
+
+- @McMurry2019: Evaluating the influence of knee airbags on lower limb and whole-body injury
+
 ## Morphology
 
 - @Audenaert2019: Lower extremity statistical shape models, Gender differences, asymmetry
 
+## Knee Joint
+
+- @Cooper2019: Finite element models of the tibiofemoral joint: A review of validation approaches and modelling challenges
+
+> This review provides an overview of the challenges involved in developing finite element models of the tibiofemoral joint, including the representation of appropriate geometry and material properties, loads and motions, and establishing pertinent outputs.
 
 <!--chapter:end:08-Lower-Extremities.Rmd-->
 
@@ -236,12 +315,26 @@ Tamura 2019: Elastic tensile behavior of [muscle fiber bundles in traumatic load
 Neumann 2019: Regional variations of in vivo surface stiffness of [soft tissue layer in extremities](https://www.sciencedirect.com/science/article/pii/S0021929019305135?dgcid=raven_sd_aip_email)
 
 
+## Soft Tissues
+
+- @Chen2019: Inverse finite element characterization of the human thigh soft tissue in the seated position
+
 
 <!--chapter:end:09-Misc.Rmd-->
+
+# Future of Transport
+
+- @Selvik2020: Can the use of road safety measures on national roads in Norway be interpreted as an informal application of the {ALARP} principle?
+
+
+- @Mindell2019: Changing aspirations: The future of transport and health (editorial)
+
+
+<!--chapter:end:10-Policy-Forecast-etc.Rmd-->
 
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
 
-<!--chapter:end:10-references.Rmd-->
+<!--chapter:end:11-references.Rmd-->
 
