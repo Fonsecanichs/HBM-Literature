@@ -42,7 +42,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - bibtex:
+  - bibtex: #pip install mkdocs-bibtex
       bib_file: "ref-01.bib"
 #      bib_dir: docs/bib
       cite_style: "plain"
