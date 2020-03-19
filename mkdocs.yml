@@ -1,0 +1,52 @@
+site_name: HBM Literature
+site_url: https://
+site_description: Scientific Literature Collection
+site_author: Jobin D. John
+
+
+nav:
+    - 'Home': index.md
+    - HBM: 01-HBM.md
+    - Experimental studies: 02-experiments.md
+    - Head: 03-Head.md
+    - Spine: 04-Spine.md
+    - Upper Extremity: 05-Upper-Extremity.md
+    - Thorax: 06-Thorax.md
+    - Abdomen and Pelvis: 07-Abdomen-Pelvis.md
+    - Lower Extremities: 08-Lower-Extremities.md
+    - Soft Tissues: 09-Soft-Tissues.md
+    - Data analysis: 10-Data-Analysis.md
+    - References: 20-references.md
+
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'teal'
+        accent: 'teal'
+    logo: #'images/VIRTUAL.png'
+        icon: 'folder_shared'
+        # Find more at https://material.io/resources/icons/
+    favicon: 'images/favicon.ico'
+markdown_extensions:
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - bibtex:
+      bib_file: "ref-01.bib"
+#      bib_dir: docs/bib
+      cite_style: "plain"
+#  - mknotebooks # pip install mknotebooks
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
