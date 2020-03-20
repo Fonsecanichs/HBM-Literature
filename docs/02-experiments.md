@@ -17,9 +17,16 @@
 
 ### Precrash
 
-- @Graci2019: Effect of automated versus manual emergency braking on rear seat adult and pediatric occupant precrash motion
+- Graci, 2020 [@Graci2020]: Age Differences in Occupant Motion during Simulated In-Vehicle Swerving Maneuvers
 
-- @Ghaffari2019: Passenger muscle responses in lane change and lane change with braking maneuvers using two belt configurations: Standard and reversible pre-pretensioner
+> Compared to teens and adults, children showed greater head and trunk
+motion (p < 0.03), but similar muscle activation in the into-the-belt direction of swerving. In the
+out–of-the-belt direction, children showed head and trunk motion more similar to teens and adults
+(p < 0.02), but with greater muscle activation.
+
+- Graci, 2019 [@Graci2020]: Effect of automated versus manual emergency braking on rear seat adult and pediatric occupant precrash motion
+
+- Ghafari, 2019 [@Ghaffari2019]: Passenger muscle responses in lane change and lane change with braking maneuvers using two belt configurations: Standard and reversible pre-pretensioner
 
 
 ## Post-mortem human subjects (PMHS)
