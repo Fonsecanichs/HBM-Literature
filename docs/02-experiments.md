@@ -11,6 +11,8 @@
 
 ### Restraint systems
 
+- Hu, 2019[@Hu2019a]: Development of oblique restraint countermeasures (Report No. DOT HS 812 814)
+
 - [@Reed2019] : Posture and belt fit in reclined passenger seats
 
 > Regression analysis demonstrated that the pelvis rotated rearward and lumbar spine flexion decreased with increasing recline. The lap portion of the 3-point belt was more rearward relative to the pelvis in more-reclined postures, and the torso portion crossed the clavicle closer to the midline of the body. Regression equations were developed to predict posture and belt fit variables as a function of passenger characteristics, seat back angle, and the use of the headrest.
