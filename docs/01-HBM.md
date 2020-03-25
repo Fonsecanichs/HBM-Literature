@@ -63,4 +63,9 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 - @Rawska2019: Submarining sensitivity across varied anthropometry in an autonomous driving system environment
 
+
+## Others
+
+- Ye, 2020[@Ye2020]: Lumbar Spine Response of Computational Finite Element Models in Multidirectional Spaceflight Landing Conditions
+
 \bibliography

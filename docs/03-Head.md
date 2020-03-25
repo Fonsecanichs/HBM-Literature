@@ -1,6 +1,6 @@
 # Head
 
-- @Bruneau2019: Head and Neck Response of an Active Human Body Model and Finite Element Anthropometric Test Device During a Linear Impactor Helmet Test
+- Bruneau, 2019[@Bruneau2019]: Head and Neck Response of an Active Human Body Model and Finite Element Anthropometric Test Device During a Linear Impactor Helmet Test
 
 > Although responses that develop over longer durations following the impact differed slightly, such as the moment at the base of the neck, this occurred later in time, and therefore, did not considerably affect the short-term head kinematics in the primary impact direction. Though muscle activation did not play a strong role in the head response for the test configurations considered, muscle activation may play a role in longer duration events.
 
@@ -19,8 +19,8 @@
 
 ### Models
 
-- @Wang2018: quantitative analysis of the effects of boundary conditions and brain tissue constitutive model, Prediction of brain deformations and risk of traumatic brain injury due to closed-head impact
-#THUMS4
+- Wang, 2018[@Wang2018]: quantitative analysis of the effects of boundary conditions and brain tissue constitutive model, Prediction of brain deformations and risk of traumatic brain injury due to closed-head impact
+(THUMS4)
 
 > The brain–skull interface models included direct representation of the brain meninges and cerebrospinal fluid, outer brain surface rigidly attached to the skull, frictionless sliding contact between the brain and skull, and a layer of spring-type cohesive elements between the brain and skull. We considered Ogden hyperviscoelastic, Mooney–Rivlin hyperviscoelastic, neo–Hookean hyperviscoelastic and linear viscoelastic constitutive models of the brain tissue. Our study indicates that the predicted deformations within the brain and related brain injury criteria are strongly affected by both the approach of modelling the brain–skull interface and the constitutive model of the brain parenchyma tissues.
 

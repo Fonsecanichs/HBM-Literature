@@ -4,7 +4,7 @@
 
 ## Ribcage
 
-- Katzenberger,2020 [@Katzenberger2020]: Effects of sex, age, and two loading rates on the tensile material properties of human rib cortical bone
+- Katzenberger, 2020 [@Katzenberger2020]: Effects of sex, age, and two loading rates on the tensile material properties of human rib cortical bone
 
 > There were no significant differences in material properties between sexes and no significant interactions between age and sex.
 
@@ -14,7 +14,7 @@
 
 
 - Ramachandra, 2019 [@Ramachandra2019]: GHBMC M50-O:Evaluation of Skeletal and Soft Tissue Contributions to Thoracic Response, Dynamic Frontal Loading Scenarios
-  - Experimental data: @Murach2018
+    - Experimental data: [@Murach2018]
 
 - Harden, 2019 [@Harden2019]: Human Rib Fracture Characteristics and Relationships with Structural Properties
 

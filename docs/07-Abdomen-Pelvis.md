@@ -10,6 +10,8 @@
 
 ## Pelvis
 
+- Yang, 2020[@Yang2020]: Three-Dimensional Finite Element Analysis of the Effects of Ligaments on Human Sacroiliac Joint and Pelvis in Two Different Positions
+
 - @Casaroli2019: What do we know about the biomechanics of the sacroiliac joint and of sacropelvic fixation? A literature review
 
 > Additionally, this study aims to support biomechanical investigations in defining experimental protocols as well as numerical modeling of the sacropelvic structures. The sacroiliac joint is characterized by a large variability of shape and ranges of motion among individuals. Although the ligament network and the anatomical features strongly limit the joint movements, sacroiliac displacements and rotations are not negligible.

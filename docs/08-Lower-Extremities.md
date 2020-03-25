@@ -10,7 +10,11 @@
 
 ## Knee Joint
 
-- @Cooper2019: Finite element models of the tibiofemoral joint: A review of validation approaches and modelling challenges
+- Gu, 2020[@Gu2020]: Direct Validation of Human Knee-Joint Contact Mechanics Derived From Subject-Specific Finite-Element Models of the Tibiofemoral and Patellofemoral Joints
+
+- Cooper, 2019[@Cooper2019]: Finite element models of the tibiofemoral joint: A review of validation approaches and modelling challenges
+
+- Erdemir, 2019[@Erdemir2019]: Deciphering the “Art” in Modeling and Simulation of the Knee Joint: Overall Strategy
 
 > This review provides an overview of the challenges involved in developing finite element models of the tibiofemoral joint, including the representation of appropriate geometry and material properties, loads and motions, and establishing pertinent outputs.
 
