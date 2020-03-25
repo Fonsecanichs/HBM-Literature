@@ -46,7 +46,7 @@ plugins:
   - bibtex: #pip install mkdocs-bibtex
       bib_file: "ref-01.bib"
 #      bib_dir: docs/bib
-      cite_style: "plain"
+      cite_style: "pandoc"
 #  - mknotebooks # pip install mknotebooks
 
 extra_javascript:
