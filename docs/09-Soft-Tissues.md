@@ -10,8 +10,11 @@ Tamura 2019: Elastic tensile behavior of [muscle fiber bundles in traumatic load
 
 Neumann 2019: Regional variations of in vivo surface stiffness of [soft tissue layer in extremities](https://www.sciencedirect.com/science/article/pii/S0021929019305135?dgcid=raven_sd_aip_email)
 
+## Adipose Tissue
 
-## Soft Tissues
+- Naseri, 2020[@Naseri2020]: The effect of adipose tissue material properties on the lap belt-pelvis interaction: A global sensitivity analysis
+
+## General Soft Tissues
 
 - Macron, 2020[@Macron2020]: Is a simplified Finite Element model of the gluteus region able to capture the mechanical response of the internal soft tissues under compression?
 

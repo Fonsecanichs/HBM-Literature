@@ -4,6 +4,8 @@
 
 ## Ribcage
 
+- Iraeus, 2020[@Iraeus2020]: Generic finite element models of human ribs, developed and validated for stiffness and strain prediction – To be used in rib fracture risk evaluation for the human population in vehicle crashes
+
 - Katzenberger, 2020 [@Katzenberger2020]: Effects of sex, age, and two loading rates on the tensile material properties of human rib cortical bone
 
 > There were no significant differences in material properties between sexes and no significant interactions between age and sex.

@@ -55,6 +55,9 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 > Side-impact sled tests conducted  with  these  PMHS  were  recreated  by  means  of  simulations  with  the  baseline  and  morphed  HBMs.  Results  showed  that  the  parametrically  morphed  models  showed  improved  correlation  with  PMHS  kinematics  compared  with  the  baseline  HBM  predictions  and  performed  as  well  as  the  further  personalized  models.  Both  parametric and personalized HBMs failed to predict the PMHS chestband deflection magnitudes and predicted no risk for rib fractures. In contrast, both PMHS sustained multiple fractured ribs during testing. In conclusion, parametric  HBM morphing alone improved  prediction  of  individual  kinematics, but neither  morphing  method improved individual injury risk prediction.
 
+## Active (Muscle) HBM
+
+- Correia, 2020[@Correia2020]: Optimization of Muscle Activation Schemes in a Finite Element Neck Model Simulating Volunteer Frontal Impact Scenarios
 
 
 ## Future Seat Configurations
@@ -71,5 +74,7 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 ## Multi-body
 
 - Kaminishi, 2019[@Kaminishi2019]: Postural control of a musculoskeletal model against multidirectional support surface translations
+
+- Modenese, 2020[@Modenese2020]: Automated Generation of Three-Dimensional Complex Muscle Geometries for Use in Personalised Musculoskeletal Models [Github](https://github.com/ComputationalBiomechanics/3d-muscles)
 
 \bibliography
