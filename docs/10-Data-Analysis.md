@@ -19,5 +19,9 @@
 
 > Improved maintenance by deicing and removal of snow from bicycle infrastructure was found to have the highest potential (8%), followed by improved **crashworthiness of passenger cars (5%)** and safer bicycle crossings (4%).
 
+## Falls
+
+- Ekbrand, 2020[@Ekbrand2020]: Fall-related injuries for three ages groups- Analysis of Swedish registry data 1999-2013
+
 
 \bibliography

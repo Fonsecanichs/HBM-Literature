@@ -19,4 +19,8 @@
 
 ## Upper Extremity
 
+### Hand
+
+- Wei, 2019[@Wei2019]: Subject-Specific Finite Element Modelling of the Human Hand Complex: Muscle-Driven Simulations and Experimental Validation
+
 \bibliography

@@ -47,7 +47,10 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Pedestrian
 
-- @Decker2019: Evaluation of finite element human body models for use in a standardized protocol for pedestrian safety assessment
+- Shi, 2020[@Shi2020]: Evaluation of injury thresholds for predicting severe head injuries in vulnerable road users resulting from ground impact via detailed accident reconstructions
+
+- Decker, 2019[@Decker2019]: Evaluation of finite element human body models for use in a standardized protocol for pedestrian safety assessment
+
 
 ## Vulnerable population
 
@@ -58,6 +61,8 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 ## Active (Muscle) HBM
 
 - Correia, 2020[@Correia2020]: Optimization of Muscle Activation Schemes in a Finite Element Neck Model Simulating Volunteer Frontal Impact Scenarios
+
+- Larsson, 2019[@Larsson2019a]: Active Human Body Model Predictions Compared to Volunteer Response in Experiments with Braking, Lane Change, and Combined Manoeuvres
 
 
 ## Future Seat Configurations

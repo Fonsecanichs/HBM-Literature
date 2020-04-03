@@ -1,5 +1,7 @@
 # Spine
 
+- Yagi, 2020[@Yagi2020]: The effect of posterior tethers on the biomechanics of proximal junctional kyphosis: The whole human finite element model analysis
+
 - @Zhang2020: Moment-rotation behavior of intervertebral joints in flexion-extension, lateral bending, and axial rotation at all levels of the human spine: A structured review and meta-regression analysis
 
 - @Afquir2020: Descriptive analysis of the effect of back protector on the prevention of vertebral and thoracolumbar injuries in serious motorcycle accident
