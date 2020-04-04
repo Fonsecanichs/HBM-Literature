@@ -27,9 +27,9 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Side Impact
 
-- @PerezRapela2020: Methodology for the Evaluation of Human Response Variability to Intrinsic and Extrinsic Factors Including Uncertainties
+- Perez-Rapela, 2020[@PerezRapela2020]: Methodology for the Evaluation of Human Response Variability to Intrinsic and Extrinsic Factors Including Uncertainties
 
-- @Hwang2019: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
+- Hwang, 2019[@Hwang2019]: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
     + Dual-sled model validated with SID, SID-II: @Hwang2016 (Development, Evaluation, and Sensitivity Analysis of Parametric Finite Element Whole-Body Human Models in Side Impacts)
 
 
@@ -40,7 +40,7 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 ## Oblique Impact
 
 
-@Perez-rapela2019 : Comparison of the simplified GHBMC to PMHS kinematics in far-side impact
+Perez-Rapela, 2019[@Perez-rapela2019] : Comparison of the simplified GHBMC to PMHS kinematics in far-side impact
 
 > Results  show  that,  in  general,  the  simplified  GHBMC  captures  lateral  excursion  in  oblique  impact conditions but overpredicts in purely lateral impact conditions. The simplified GHBMC shows post-mortem human subject like sensitivities to changes in ΔV  and  the  use  of  pretensioner  but  no  sensitivity  to  changes  in  impact direction. The human body model performs similarly to other previously published HBMs and obtains a “good”  CORA  score.  However,  the  surrogate  does  not  represent  post-mortem  human  subject  shoulder-to-belt interaction in all configurations.
 
@@ -54,7 +54,7 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Vulnerable population
 
-- [@Larsson2019]: Evaluation of the Benefits of Parametric Human Body Model Morphing for Prediction of Injury to Elderly Occupants in Side Impact    
+- Larsson, 2019[@Larsson2019]: Evaluation of the Benefits of Parametric Human Body Model Morphing for Prediction of Injury to Elderly Occupants in Side Impact    
 
 > Side-impact sled tests conducted  with  these  PMHS  were  recreated  by  means  of  simulations  with  the  baseline  and  morphed  HBMs.  Results  showed  that  the  parametrically  morphed  models  showed  improved  correlation  with  PMHS  kinematics  compared  with  the  baseline  HBM  predictions  and  performed  as  well  as  the  further  personalized  models.  Both  parametric and personalized HBMs failed to predict the PMHS chestband deflection magnitudes and predicted no risk for rib fractures. In contrast, both PMHS sustained multiple fractured ribs during testing. In conclusion, parametric  HBM morphing alone improved  prediction  of  individual  kinematics, but neither  morphing  method improved individual injury risk prediction.
 
@@ -67,9 +67,9 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 ## Future Seat Configurations
 
-- @Boyle2019: A Human Modelling Study on Occupant Kinematics in Highly Reclined Seats during Frontal Crashes
+- Boyle, 2019[@Boyle2019]: A Human Modelling Study on Occupant Kinematics in Highly Reclined Seats during Frontal Crashes
 
-- @Rawska2019: Submarining sensitivity across varied anthropometry in an autonomous driving system environment
+- Rawska, 2019[@Rawska2019]: Submarining sensitivity across varied anthropometry in an autonomous driving system environment
 
 
 ## Others FE
