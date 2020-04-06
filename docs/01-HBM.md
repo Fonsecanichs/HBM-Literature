@@ -9,11 +9,6 @@
 
 ## Frontal impact
 
-- @Tang2020: A numerical investigation of factors affecting lumbar spine injuries in frontal crashes #HIII
-
-> Parametric simulations were conducted using a set of validated vehicle driver compartment model, restraint system model, and a HIII mid-size male crash test dummy model. Risk factors considered in the study included occupant seating posture, crash pulse, vehicle pitch angle, seat design, anchor pre-tensioner, dynamic locking tongue, and shoulder belt load limiter.
-
-
 
 - @Devane2019: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests #GHBMC
 

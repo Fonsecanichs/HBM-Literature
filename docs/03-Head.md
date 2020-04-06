@@ -14,6 +14,10 @@
 
 - @Yoganandan2009: Neck Forces and Moments and Head Accelerations in Side Impact
 
+## Skull
+
+- Zhou, 2020[@Zhou2020]: Evaluation of brain-skull interface modelling approaches on the prediction of acute subdural hematoma in the elderly
+
 ## Brain
 
 
