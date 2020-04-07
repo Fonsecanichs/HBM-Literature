@@ -20,6 +20,7 @@
 
 ## Brain
 
+- Alshareef, 2020[@Alshareef2020]: Biomechanics of the Human Brain during Dynamic Rotation of the Head
 
 ### Models
 

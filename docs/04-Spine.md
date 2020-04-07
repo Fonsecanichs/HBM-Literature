@@ -23,6 +23,10 @@ The mean length and width of the MIL were 9.03±4.29 mm and 4.94±1.56 mm, respe
 
 - @Sato2019: Relationship Between Cervical, Thoracic and Lumbar Spinal Alignments in Automotive Seated Posture
 
+## Intervertebral region
+
+- Zhou, 2020[@Zhou2020a]: Historical Review of Combined Experimental and Computational Approaches for Investigating Annulus Fibrosus Mechanics
+
 ## Cervical Spine
 
 - @Alizadeh2020: Biomechanical musculoskeletal models of the cervical spine: A systematic literature review

@@ -2,7 +2,7 @@
 
 ## Rear Impact
 
-- @Katagiri2019: Biofidelity Evaluation of GHBMC Male Occupant Models in Rear Impact
+- Katagiri, 2019[@Katagiri2019]: Biofidelity Evaluation of GHBMC Male Occupant Models in Rear Impact
 
 > The NHTSA Biofidelity Ranking System was used to evaluate the HBMs. The HBMs exhibited better biofidelity 1) at 17 km/h than 24 km/h, and 2) in the head to T1 region, which is relevant to rear-impact-related injuries, than the T1 to pelvis region. The detailed HBM received a better biofidelity score than the simplified HBM in every studied component. Limitations for the HBMs’ biofidelity were indicated in the modelling of their spines and surrounding flesh.
 
@@ -10,9 +10,9 @@
 ## Frontal impact
 
 
-- @Devane2019: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests #GHBMC
+- Devane, 2019[@Devane2019]: Validation of a simplified human body model in relaxed and braced conditions in low-speed frontal sled tests #GHBMC
 
-- @Hu2019: Frontal crash simulations using parametric human models representing a diverse population
+- Hu, 2019[@Hu2019]: Frontal crash simulations using parametric human models representing a diverse population
 
 > Frontal crash simulations based on U.S. New Car Assessment Program (U.S. NCAP) were conducted. Body region injury risks were calculated based on the risk curves used in the US NCAP, except that scaling was used for the neck, chest, and knee–thigh–hip injury risk curves based on the sizes of the bony structures in the corresponding body regions. Age effects were also considered for predicting chest injury risk.
 >
