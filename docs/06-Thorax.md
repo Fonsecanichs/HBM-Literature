@@ -4,6 +4,8 @@
 
 ## Ribcage
 
+- Xu2019[@Xu2019]: Evaluation of Thoracic Injury Risk of Heavy Goods Vehicle Occupants during Steering Wheel Rim Impacts to Different Rib Levels
+
 - Iraeus, 2020[@Iraeus2020]: Generic finite element models of human ribs, developed and validated for stiffness and strain prediction – To be used in rib fracture risk evaluation for the human population in vehicle crashes
 
 - Katzenberger, 2020 [@Katzenberger2020]: Effects of sex, age, and two loading rates on the tensile material properties of human rib cortical bone

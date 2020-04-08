@@ -7,9 +7,9 @@
 > This work suggests that injury risk in near-side impacts is higher when crash delta-v is higher, the occupant is over the age of 65, the occupant is female, the occupant’s BMI is higher, or the occupant’s vehicle received a lower score in the NCAP MDB test.
 
 
-- Pipkorn, 2020 [@Pipkorn2020]: Occupant injuries in light passenger vehicles{\textemdash}A {NASS} study to enable priorities for development of injury prediction capabilities of human body models
+- Pipkorn, 2020 [@Pipkorn2020]: Occupant injuries in light passenger vehicles: A {NASS} study to enable priorities for development of injury prediction capabilities of human body models
 
-
+- Miller, 2020[@Miller2020]: Patient Age Is Inversely Associated with Injury Counts Caused by Motor Vehicle Crashes.
 
 ## Vulnerable Road Users
 

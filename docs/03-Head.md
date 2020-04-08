@@ -1,5 +1,7 @@
 # Head
 
+- Trotta, 2020[@Trotta2020]: Biofidelic finite element modelling of brain trauma: Importance of the scalp in simulating head impact
+
 - Bruneau, 2019[@Bruneau2019]: Head and Neck Response of an Active Human Body Model and Finite Element Anthropometric Test Device During a Linear Impactor Helmet Test
 
 > Although responses that develop over longer durations following the impact differed slightly, such as the moment at the base of the neck, this occurred later in time, and therefore, did not considerably affect the short-term head kinematics in the primary impact direction. Though muscle activation did not play a strong role in the head response for the test configurations considered, muscle activation may play a role in longer duration events.
