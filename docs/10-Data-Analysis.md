@@ -23,6 +23,7 @@
 
 - Ekbrand, 2020[@Ekbrand2020]: Fall-related injuries for three ages groups- Analysis of Swedish registry data 1999-2013
 
+- Kleiven, 2020[@Kleiven2020]: Hip fracture risk functions for elderly men and women in sideways falls
 
 ## Miscellaneous
 
