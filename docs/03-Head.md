@@ -22,6 +22,8 @@
 
 ## Brain
 
+- Gabrieli, 2020[@Gabrieli2020]: A Multibody Model for Predicting Spatial Distribution of Human Brain Deformation Following Impact Loading
+
 - Alshareef, 2020[@Alshareef2020]: Biomechanics of the Human Brain during Dynamic Rotation of the Head
 
 ### Models

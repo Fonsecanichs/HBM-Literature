@@ -12,6 +12,8 @@
 
 ## Knee Joint
 
+- Ali, 2020[@Ali2020]: Validated Computational Framework for Evaluation of In Vivo Knee Mechanics
+
 - Gu, 2020[@Gu2020]: Direct Validation of Human Knee-Joint Contact Mechanics Derived From Subject-Specific Finite-Element Models of the Tibiofemoral and Patellofemoral Joints
 
 - Cooper, 2019[@Cooper2019]: Finite element models of the tibiofemoral joint: A review of validation approaches and modelling challenges

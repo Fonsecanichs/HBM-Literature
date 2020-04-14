@@ -33,4 +33,9 @@ Structural properties (peak and yield force, %peak and yield displacement, linea
 
 ## Internal organ injuries
 
+## Muscles
+
+- Griffioen, 2020[@Griffioen2020]: Effects of age and sex on trunk motor control
+
+
 \bibliography
