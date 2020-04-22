@@ -26,6 +26,7 @@ theme:
         primary: 'teal'
         accent: 'teal'
     icon: #'images/VIRTUAL.png'
+        logo: fontawesome/solid/rss
         logo: material/folder_shared
         # Find more at https://material.io/resources/icons/
     favicon: 'images/favicon.ico'
