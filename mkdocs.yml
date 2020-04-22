@@ -25,8 +25,8 @@ theme:
     palette:
         primary: 'teal'
         accent: 'teal'
-    logo: #'images/VIRTUAL.png'
-        icon: 'folder_shared'
+    icon: #'images/VIRTUAL.png'
+        logo: material/folder_shared
         # Find more at https://material.io/resources/icons/
     favicon: 'images/favicon.ico'
 markdown_extensions:
@@ -48,6 +48,11 @@ plugins:
 #      bib_dir: docs/bib
       cite_style: "pandoc"
 #  - mknotebooks # pip install mknotebooks
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/jobindj/HBM-Literature
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'

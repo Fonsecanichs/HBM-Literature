@@ -4,6 +4,8 @@
 
 ## Shoulder
 
+- Chodock, 2020[@Chodock2020]: Identifying predictors of upper extremity muscle elasticity with healthy aging
+
 - @Mulla2019: Glenohumeral stabilizing roles of the scapulohumeral muscles: Implications of muscle geometry
 
 

@@ -26,6 +26,10 @@
 
 - Alshareef, 2020[@Alshareef2020]: Biomechanics of the Human Brain during Dynamic Rotation of the Head
 
+- Hajiaghamemar, 2019[@Hajiaghamemar2019]: Embedded axonal fiber tracts improve finite element model predictions of traumatic brain injury
+
+- Budday, 2019[@Budday2019]: Challenges and perspectives in brain tissue testing and modeling
+
 ### Models
 
 - Wang, 2018[@Wang2018]: quantitative analysis of the effects of boundary conditions and brain tissue constitutive model, Prediction of brain deformations and risk of traumatic brain injury due to closed-head impact

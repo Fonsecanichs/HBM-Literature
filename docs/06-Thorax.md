@@ -1,6 +1,8 @@
 # Thorax
 
+## Anthropometry
 
+- Parenteau, 2020[@Parenteau2020]: Characterization of Thoracic Spinal Development by Age and Sex with a Focus on Occupant Safety
 
 ## Ribcage
 
@@ -25,6 +27,8 @@
 
 > Ribs (n=347) were impacted in a dynamic bending scenario representing a frontal thoracic impact. Fracture characteristics (location, classification, number, and severity) were analyzed utilizing a new classification system.
 Structural properties (peak and yield force, %peak and yield displacement, linear structural stiffness, total energy, plastic energy, and ductility/brittleness) were calculated from test data for each rib and their relationships with fracture characteristics were assessed. Three structural properties (%peak displacement, total energy, and plastic energy) were found to have significant differences with all fracture characteristics except fracture location. However, the significant differences were only found in specific comparisons within each fracture characteristic. Fracture location was only found to have a significant relationship with % peak displacement.
+
+- Harden, 2019[@Harden2019a]: Rib Fractures: Validation of an Interdisciplinary Classification System
 
 
 ## Diaphragm

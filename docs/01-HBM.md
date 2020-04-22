@@ -24,7 +24,7 @@ Results: The simulations demonstrated that driver stature and body shape affect 
 
 - Perez-Rapela, 2020[@PerezRapela2020]: Methodology for the Evaluation of Human Response Variability to Intrinsic and Extrinsic Factors Including Uncertainties
 
-- Hwang, 2019[@Hwang2019]: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
+- Hwang, 2020[@Hwang2020]: Diverse Human Body Models against Side Impact Tests with Post-Mortem Human Subjects
     + Dual-sled model validated with SID, SID-II: @Hwang2016 (Development, Evaluation, and Sensitivity Analysis of Parametric Finite Element Whole-Body Human Models in Side Impacts)
 
 

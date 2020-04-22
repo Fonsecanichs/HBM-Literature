@@ -57,4 +57,13 @@ out–of-the-belt direction, children showed head and trunk motion more similar 
 
 - A Methodology for Generating Objective Targets for Quantitatively Assessing the Biofideltiy of crash test dummies [@Rhule2009]
 
+
+## VRUs
+
+- Forczek, 2020[@Forczek2020]: Pelvic movements during walking throughout gestation - the relationship between morphology and kinematic parameters
+
+## Instrumentation
+
+- Robert-Lachaine, 2020[@RobertLachaine2020]: Validation of a low-cost inertial motion capture system for whole-body motion analysis
+
 \bibliography

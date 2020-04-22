@@ -24,6 +24,8 @@
 
 ## Femur
 
+- Villette, 2019[@Villette2019]: Influence of femoral external shape on internal architecture and fracture risk
+
 - Schileo, 2020[@Schileo2020]: Cortical bone mapping improves finite element strain prediction accuracy at the proximal femur
 
 - Katz, 2020[@Katz2020]: New insights on the proximal femur biomechanics using Digital Image Correlation

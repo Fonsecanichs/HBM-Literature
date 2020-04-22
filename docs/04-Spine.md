@@ -29,6 +29,8 @@ The mean length and width of the MIL were 9.03±4.29 mm and 4.94±1.56 mm, respe
 
 ## Cervical Spine
 
+- Trajkovski, 2020[@Trajkovski2020]: Analysis of the mechanical response of damaged human cervical spine ligaments
+
 - @Alizadeh2020: Biomechanical musculoskeletal models of the cervical spine: A systematic literature review
 
 - @Li2019a: A review of neck injury and protection in vehicle accidents
@@ -57,6 +59,10 @@ Related papers
 
 > Parametric simulations were conducted using a set of validated vehicle driver compartment model, restraint system model, and a HIII mid-size male crash test dummy model. Risk factors considered in the study included occupant seating posture, crash pulse, vehicle pitch angle, seat design, anchor pre-tensioner, dynamic locking tongue, and shoulder belt load limiter.
 Lumbar spine injuries in frontal collision
+
+- Newell, 2019[@Newell2019]: Material properties of human lumbar intervertebral discs across strain rates
+
+- Damm, 2019[@Damm2019]: Lumbar spinal ligament characteristics extracted from stepwise reduction experiments allow for preciser modeling than literature data
 
 - Kaufman,2013[@Kaufman2013]: Burst fractures of the lumbar spine in frontal crashes
 

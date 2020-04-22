@@ -2,6 +2,8 @@
 
 ## Muscles
 
+- Herzog, 2019[@Herzog2019]: The problem with skeletal muscle series elasticity
+
 Zhai, 2019[@Zhai2019]: Mechanical Response of Human Muscle at Intermediate Strain Rates
 
 >  tensile stress–strain response of human muscle along fiber direction and compressive stress–strain response transverse to fiber direction at intermediate strain rates (100–102/s). An Ogden model with two material constants was adopted to describe the nonlinear tensile and compressive behaviors of human muscle.

@@ -1,5 +1,9 @@
 # Data Analysis
 
+## Anthropometry
+
+- Tosi, 2019[@Tosi2019]: The Anthropometric Reference Data
+
 ## Crash data analysis
 
 - Bareiss, 2020 [@Bareiss2020]: Estimating near side crash injury risk in best performing passenger vehicles in the United States
@@ -11,13 +15,21 @@
 
 - Miller, 2020[@Miller2020]: Patient Age Is Inversely Associated with Injury Counts Caused by Motor Vehicle Crashes.
 
+- Joodaki, 2019[@Joodaki2019]: Comparison of injuries of belted occupants among different BMI categories in frontal crashes
+
 ## Vulnerable Road Users
+
+- Weaver, 2019[@Weaver2019]: Sarcopenia and osteosarcopenia in seriously injured motor vehicle crash occupants
 
 -  Meredith, 2020[@Meredith2020]: Mapping fractures from traffic accidents in Sweden: How do cyclists compare to other road users?
 
 - Rizzi, 2020 [@Rizzi2020]: The potential of different countermeasures to prevent injuries with high risk of health loss among bicyclists in Sweden
 
 > Improved maintenance by deicing and removal of snow from bicycle infrastructure was found to have the highest potential (8%), followed by improved **crashworthiness of passenger cars (5%)** and safer bicycle crossings (4%).
+
+## Child
+
+- Durbin, 2018[@Durbin2018]: Child Passenger Safety
 
 ## Falls
 
