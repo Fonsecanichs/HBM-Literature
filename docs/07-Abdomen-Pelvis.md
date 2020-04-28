@@ -10,6 +10,8 @@
 
 ## Pelvis
 
+- Tse, 2020[@Tse2020]: Effect of sitting posture on pelvic injury risk under vertical loading
+
 - Keyak, 2020[@Keyak2020]: Hip load capacity and yield load in men and women of all ages
 
 - Yang, 2020[@Yang2020]: Three-Dimensional Finite Element Analysis of the Effects of Ligaments on Human Sacroiliac Joint and Pelvis in Two Different Positions

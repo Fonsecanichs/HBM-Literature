@@ -21,7 +21,7 @@
 The mean length and width of the MIL were 9.03±4.29 mm and 4.94±1.56 mm, respectively. The mean force necessary until failure for the MIL was 12.3N.
 
 
-- @Sato2019: Relationship Between Cervical, Thoracic and Lumbar Spinal Alignments in Automotive Seated Posture
+- Sato, 2019[@Sato2019]: Relationship Between Cervical, Thoracic and Lumbar Spinal Alignments in Automotive Seated Posture
 
 ## Intervertebral region
 
@@ -29,31 +29,40 @@ The mean length and width of the MIL were 9.03±4.29 mm and 4.94±1.56 mm, respe
 
 ## Cervical Spine
 
+- Putra, 2020[@Putra2020]: Optimization of Female Head-Neck Model with Active Reflexive Cervical Muscles in Low Severity Rear Impact Collisions
+
+- Hofler, 2020[@Hofler2020]: Neutral cervical sagittal vertical axis and cervical lordosis vary with T1 tilt
+
 - Trajkovski, 2020[@Trajkovski2020]: Analysis of the mechanical response of damaged human cervical spine ligaments
 
-- @Alizadeh2020: Biomechanical musculoskeletal models of the cervical spine: A systematic literature review
+- Alizadeh, 2020[@Alizadeh2020]: Biomechanical musculoskeletal models of the cervical spine: A systematic literature review
 
-- @Li2019a: A review of neck injury and protection in vehicle accidents
+- Li, 2019[@Li2019a]: A review of neck injury and protection in vehicle accidents
 
-- @Tisherman2019:  Biomechanical Contribution of the Alar Ligaments to Upper Cervical Stability
+- Tisherman, 2019[@Tisherman2019]:  Biomechanical Contribution of the Alar Ligaments to Upper Cervical Stability
 
 > The alar ligaments also contributed to resistance to intact motion in extension (13.4 ± 6.6%, p < 0.05), flexion (4.4 ± 2.2%, p < 0.05), axial rotation (19.3 ± 2.7%, p < 0.05), and lateral bending (16.0 ± 2.8%, p < 0.05).
 
-- @Zhou2019 : Intervertebral Range of Motion Characteristics of Normal Cervical Spinal Segments (C0-T1) during In Vivo Neck  (dual fluroscopy)  
+- Zhou, 2019[@Zhou2019] : Intervertebral Range of Motion Characteristics of Normal Cervical Spinal Segments (C0-T1) during In Vivo Neck  (dual fluroscopy)  
 Related papers
-  - @Wang2008: Measurement of Vertebral Kinematics Using Noninvasive Image Matching Method–Validation and Application
-  - @Yu2017: Ranges of Cervical Intervertebral Disc Deformation During an In Vivo Dynamic Flexion–Extension of the Neck
+  - Wang, 2008[@Wang2008]: Measurement of Vertebral Kinematics Using Noninvasive Image Matching Method–Validation and Application
+  - Yu, 2017[@Yu2017]: Ranges of Cervical Intervertebral Disc Deformation During an In Vivo Dynamic Flexion–Extension of the Neck
+
+- Park, 2013[@Park2013]: T1 Slope and Cervical Sagittal Alignment on Cervical (CT) Radiographs of Asymptomatic Persons
+  +SagittalAllignment
 
 ## Thoracic Spine
 
-- @Liebsch2020a: Thoracic spinal kinematics is affected by the grade of intervertebral disc degeneration, but not by the presence of the ribs: An in vitro study
+- Liebsch, 2020[@Liebsch2020a]: Thoracic spinal kinematics is affected by the grade of intervertebral disc degeneration, but not by the presence of the ribs: An in vitro study
 
-- @Liebsch2020: Rib Presence, Anterior Rib Cage Integrity, and Segmental Length Affect the Stability of the Human Thoracic Spine: An in vitro Study
+- Liebsch, 2020[@Liebsch2020]: Rib Presence, Anterior Rib Cage Integrity, and Segmental Length Affect the Stability of the Human Thoracic Spine: An in vitro Study
 
 
 
 
 ## Lumbar Spine
+
+- Bermel, 2020[@Bermel2020]: Asymmetric In-Plane Shear Behavior of Isolated Cadaveric Lumbar Facet Capsular Ligaments: implications for subject specific biomechanical models
 
 - Tang, 2020[@Tang2020]: A numerical investigation of factors affecting lumbar spine injuries in frontal crashes #HIII
 

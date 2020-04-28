@@ -33,23 +33,25 @@ out–of-the-belt direction, children showed head and trunk motion more similar 
 
 ## Post-mortem human subjects (PMHS)
 
-- @Richardson2019 : Test Methodology for Evaluating the Reclined Seating Environment With Human Surrogates
+- Donlon, 2020[@Donlon2020]: Kinematics of inboard-leaning occupants in frontal impacts
+
+- Donlon, 2020[@Richardson2019] : Test Methodology for Evaluating the Reclined Seating Environment With Human Surrogates
 
 - Kang, 2018, IRCOBI : Head neck PMHS, frontal, oblique, side and twist scenarios
 
 - Shurtz et al., 2018, Small female side impact
 
-- @Shaw2009 :  Impact Response of Restrained (PMHS) in Frontal Sled Tests: Skeletal Deformation Patterns Under Seat Belt Loading
+- Shaw, 2009[@Shaw2009] :  Impact Response of Restrained (PMHS) in Frontal Sled Tests: Skeletal Deformation Patterns Under Seat Belt Loading
 
 
 
 
 ## Dummies
 
-- @Whyte2019: Frontal crash seat belt restraint effectiveness and comfort accessories used by older occupants
+- Whyte, 2019[@Whyte2019]: Frontal crash seat belt restraint effectiveness and comfort accessories used by older occupants
 
 
-- @Viano2018: Rear-seat occupant in rear crash test (NHTSA)
+- Viano, 2018[@Viano2018]: Rear-seat occupant in rear crash test (NHTSA)
 
 - Parent et al., 2017, Stapp, THOR vs HIII 50th male in frontal impact
 
