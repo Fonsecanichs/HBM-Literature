@@ -1,9 +1,14 @@
+# Project information
 site_name: HBM Literature
 site_url: https://hbm-literature.readthedocs.io/
 site_description: Scientific Literature Collection
 site_author: Jobin D. John
 
+# Repository
+repo_name: github/HBM-Literature
+repo_url: https://github.com/jobindj/HBM-Literature
 
+# Page tree
 nav:
     - 'Home': index.md
     - HBM:
@@ -19,7 +24,7 @@ nav:
     - Soft Tissues: 09-Soft-Tissues.md
     - Data analysis: 10-Data-Analysis.md
 
-
+# Configuration
 theme:
     name: 'material'
     palette:
@@ -42,6 +47,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
+# Plugins
 plugins:
   - search
   - bibtex: #pip install mkdocs-bibtex

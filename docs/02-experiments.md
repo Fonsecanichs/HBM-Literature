@@ -34,8 +34,9 @@ out–of-the-belt direction, children showed head and trunk motion more similar 
 ## Post-mortem human subjects (PMHS)
 
 - Donlon, 2020[@Donlon2020]: Kinematics of inboard-leaning occupants in frontal impacts
+> The posture-induced increase in the distance between the D-ring and the shoulder permitted the increased maximum forward head displacement and increased maximum head resultant velocity relative to the vehicle interior. Thus, an initial inboard lean in a frontal impact may increase the risk and severity of a head strike to the vehicle interior, and alter the location, timing, and nature of airbag engagement.
 
-- Donlon, 2020[@Richardson2019] : Test Methodology for Evaluating the Reclined Seating Environment With Human Surrogates
+- Richardson, 2019[@Richardson2019] : Test Methodology for Evaluating the Reclined Seating Environment With Human Surrogates
 
 - Kang, 2018, IRCOBI : Head neck PMHS, frontal, oblique, side and twist scenarios
 
@@ -57,7 +58,7 @@ out–of-the-belt direction, children showed head and trunk motion more similar 
 
 ## Biofidelity
 
-- A Methodology for Generating Objective Targets for Quantitatively Assessing the Biofideltiy of crash test dummies [@Rhule2009]
+- Rhule, 2009[@Rhule2009]A Methodology for Generating Objective Targets for Quantitatively Assessing the Biofideltiy of crash test dummies
 
 
 ## VRUs
