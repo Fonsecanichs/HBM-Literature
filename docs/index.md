@@ -1,9 +1,7 @@
 # Human Body Models: Scientific Literature Collection
 
-Ever read something or came across something useful, never to find
-it again when you need it?
+**A curated list of recent  literature on injury biomechanics, mostly focused on vehicle/mobility-related safety**
 
-This started as a notebook to document scientific literature that I come across in
-my research area (Human Body Modeling for Injury Analysis)
+Ever read something or come across something useful, (almost) never to find it when you need it? This started as a notebook to document interesting literature that I come across.
 
-My [Plaudits](https://plaudit.pub/endorser/0000-0003-1916-7348)
+Jobin's [Plaudits](https://plaudit.pub/endorser/0000-0003-1916-7348)

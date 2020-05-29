@@ -6,7 +6,7 @@
 
 ## Ribcage
 
-
+- Holcombe, 2020[@Holcombe2020]: Comparing {FE} human body model rib geometry to population data
 
 - Iraeus, 2020[@Iraeus2020]: Generic finite element models of human ribs, developed and validated for stiffness and strain prediction – To be used in rib fracture risk evaluation for the human population in vehicle crashes
 
