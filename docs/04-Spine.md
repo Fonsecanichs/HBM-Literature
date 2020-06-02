@@ -62,6 +62,10 @@ Related papers
 
 ## Lumbar Spine
 
+- Anna, 2020[@Anna2020]: Variations Among Human Lumbar Spine Segments and Their Relationships to In Vitro Biomechanics: A Retrospective Analysis of 281 Motion Segments From 85 Cadaveric Spines
+
+> This provides extensive biomechanical data for a large number of intact motion segments, along with donor demographic variables, bone mineral density (BMD) measurements, and geometric properties. The objective of this study was to analyze how donor demographics, BMD, and geometric properties of cadaveric lumbar spine segments affect motion segment flexibility, including the range of motion (ROM), lax zone (LZ), and stiff zone (SZ), to help improve our understanding of spinal biomechanics.
+
 - Bermel, 2020[@Bermel2020]: Asymmetric In-Plane Shear Behavior of Isolated Cadaveric Lumbar Facet Capsular Ligaments: implications for subject specific biomechanical models
 
 - Tang, 2020[@Tang2020]: A numerical investigation of factors affecting lumbar spine injuries in frontal crashes #HIII

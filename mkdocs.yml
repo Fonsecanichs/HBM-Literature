@@ -23,6 +23,7 @@ nav:
     - Lower Extremities: 08-Lower-Extremities.md
     - Soft Tissues: 09-Soft-Tissues.md
     - Data analysis: 10-Data-Analysis.md
+    - Humans in Autonomous Vehicles: 11-Humans-in-Autonomous-Vehicles.md
 
 # Configuration
 theme:
