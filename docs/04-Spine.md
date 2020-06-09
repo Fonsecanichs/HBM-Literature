@@ -73,9 +73,13 @@ Related papers
 > Parametric simulations were conducted using a set of validated vehicle driver compartment model, restraint system model, and a HIII mid-size male crash test dummy model. Risk factors considered in the study included occupant seating posture, crash pulse, vehicle pitch angle, seat design, anchor pre-tensioner, dynamic locking tongue, and shoulder belt load limiter.
 Lumbar spine injuries in frontal collision
 
+- Bach, 2019[@Bach2019]: Morphometric Analysis of Lumbar Intervertebral Disc Height: An Imaging Study
+
 - Newell, 2019[@Newell2019]: Material properties of human lumbar intervertebral discs across strain rates
 
 - Damm, 2019[@Damm2019]: Lumbar spinal ligament characteristics extracted from stepwise reduction experiments allow for preciser modeling than literature data
+
+- Cook, 2015[@Cook2015]: Range of Motion of the Intact Lumbar Segment: A Multivariate Study of 42 Lumbar Spines
 
 - Kaufman,2013[@Kaufman2013]: Burst fractures of the lumbar spine in frontal crashes
 

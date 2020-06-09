@@ -2,6 +2,8 @@
 
 ## Muscles
 
+- Kocur, 2019[@Kocur2019]: Relationship between age, {BMI}, head posture and superficial neck muscle stiffness and elasticity in adult women
+
 - Herzog, 2019[@Herzog2019]: The problem with skeletal muscle series elasticity
 
 Zhai, 2019[@Zhai2019]: Mechanical Response of Human Muscle at Intermediate Strain Rates
