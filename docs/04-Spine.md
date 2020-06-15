@@ -48,6 +48,12 @@ Related papers
   - Wang, 2008[@Wang2008]: Measurement of Vertebral Kinematics Using Noninvasive Image Matching Method–Validation and Application
   - Yu, 2017[@Yu2017]: Ranges of Cervical Intervertebral Disc Deformation During an In Vivo Dynamic Flexion–Extension of the Neck
 
+- Machino, 2016[@Machino2016]: Age-Related and Degenerative Changes in the Osseous Anatomy, Alignment, and Range of Motion of the Cervical Spine
+  +GenderDifferences
+
+- Liu, 2015[@Liu2015]: Are the standard parameters of cervical spine alignment and range of motion related to age, sex, and cervical disc degeneration?
+  +SagittalAllignment
+
 - Park, 2013[@Park2013]: T1 Slope and Cervical Sagittal Alignment on Cervical (CT) Radiographs of Asymptomatic Persons
   +SagittalAllignment
 

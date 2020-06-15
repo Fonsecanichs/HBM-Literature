@@ -4,6 +4,8 @@
 
 ## Shoulder
 
+- Aurbach, 2020[@Aurbach2020]: Evaluation of musculoskeletal modelling parameters of the shoulder complex during humeral abduction above 90{\textdegree}
+
 - Williamson, 2020[@Williamson2020]: Effect of rotator cuff muscle activation on glenohumeral kinematics: A cadaveric study
 
 - Chodock, 2020[@Chodock2020]: Identifying predictors of upper extremity muscle elasticity with healthy aging

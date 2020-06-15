@@ -1,6 +1,8 @@
 # Miscellaneous
 
 ## Muscles
+- Modenese, 2020[@Modenese_2020]: Automated Generation of Three-Dimensional Complex Muscle Geometries for Use in Personalised Musculoskeletal Models
+
 
 - Kocur, 2019[@Kocur2019]: Relationship between age, {BMI}, head posture and superficial neck muscle stiffness and elasticity in adult women
 
