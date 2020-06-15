@@ -19,7 +19,7 @@
 
 > All three components (acromial coverage, glenoid inclination or acromial height) had an effect on either muscle forces and or joint reaction forces. While glenoid inclination showed the highest impact on joint stability with increasing upward-tilting causing cranial subluxation, changing of the lateral acromial coverage or acromial height had less influence on stability but showed significant alteration of joint reaction forces.
 
-- @Cudlip2019: The ability of surface electromyography to represent supraspinatus anterior and posterior partition activity depends on elevation angle, hand load and plane of elevation
+- Cudlip, 2019[@Cudlip2019]: The ability of surface electromyography to represent supraspinatus anterior and posterior partition activity depends on elevation angle, hand load and plane of elevation
 
 
 
