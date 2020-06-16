@@ -1,5 +1,7 @@
 # Spine
 
+- Ghelani, 2020[@Ghelani2020]: Rapid increase in intradiscal pressure in porcine cervical spine units negatively impacts annulus fibrosus strength
+
 - Yagi, 2020[@Yagi2020]: The effect of posterior tethers on the biomechanics of proximal junctional kyphosis: The whole human finite element model analysis
 
 - Zhang, 2020[@Zhang2020]: Moment-rotation behavior of intervertebral joints in flexion-extension, lateral bending, and axial rotation at all levels of the human spine: A structured review and meta-regression analysis
