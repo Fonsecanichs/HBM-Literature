@@ -2,7 +2,14 @@
 
 **A curated list of recent  literature on injury biomechanics, mostly focused on vehicle/mobility-related safety**
 
-Ever read something or come across something useful, (almost) never to find it later when you need it? This started as a notebook to document interesting literature that I come across in my research work.
+Ever read a new article, but spent hours to find it later when you wanted to use it? This started as a notebook to document interesting literature in Injury Biomechanics.
+
+!!! Note "Pinboard"
+
+      - Forman, 2019[@Forman2019]: Automobile injury trends in the contemporary fleet: Belted occupants in frontal collisions
+
+      > The largest reductions in risk between newer model year vehicles and older model year vehicles occur in the lower extremities and in the risk of skull fracture. There is no statistically significant change in risk of AIS 3+ rib fracture or sternum injury between model year categories. Females are at greater risk of AIS 2+ and AIS 3+ injury compared to males, with increased risk across most injury types.
+
 
 ## New articles
 
