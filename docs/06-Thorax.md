@@ -30,6 +30,7 @@ Structural properties (peak and yield force, %peak and yield displacement, linea
 
 - Harden, 2019[@Harden2019a]: Rib Fractures: Validation of an Interdisciplinary Classification System
 
+- Hostetler, 2019[@Hostetler2019]: Comparing rib cortical thickness measurements from computed tomography ({CT}) and Micro-{CT}
 
 ## Diaphragm
 
