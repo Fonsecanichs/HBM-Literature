@@ -6,12 +6,15 @@
 
 ## Crash data analysis
 
+- Li, 2020[@Li2020]: Investigating traffic fatality trends and restraint use among rear-seat passengers in the United States, 2000{\textendash}2016
+
 - Bareiss, 2020 [@Bareiss2020]: Estimating near side crash injury risk in best performing passenger vehicles in the United States
 
 > This work suggests that injury risk in near-side impacts is higher when crash delta-v is higher, the occupant is over the age of 65, the occupant is female, the occupant’s BMI is higher, or the occupant’s vehicle received a lower score in the NCAP MDB test.
 
-
-- Pipkorn, 2020 [@Pipkorn2020]: Occupant injuries in light passenger vehicles: A {NASS} study to enable priorities for development of injury prediction capabilities of human body models
+- Lidbe, 2020[@Lidbe2020]: Do {NHTSA} vehicle safety ratings affect side impact crash outcomes?
+> The upper and lower extremities were frequently injured body regions in side impact crashes.
+> head and thorax are the most common regions of impact of severe injuries, while the neck is the least.
 
 - Miller, 2020[@Miller2020]: Patient Age Is Inversely Associated with Injury Counts Caused by Motor Vehicle Crashes.
 
@@ -38,6 +41,8 @@
 - Kleiven, 2020[@Kleiven2020]: Hip fracture risk functions for elderly men and women in sideways falls
 
 ## Miscellaneous
+
+- Ballesteros, 2020[@Ballesteros2020]:  Advancing injury and violence prevention through data science
 
 - Bhalla, 2020[@Bhalla2020]: Monitoring India's progress on road safety will require investment in data systems
 

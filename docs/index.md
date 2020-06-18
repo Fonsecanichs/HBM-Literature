@@ -10,6 +10,8 @@ Ever read a new article, but spent hours to find it later when you wanted to use
 
       > The largest reductions in risk between newer model year vehicles and older model year vehicles occur in the lower extremities and in the risk of skull fracture. There is no statistically significant change in risk of AIS 3+ rib fracture or sternum injury between model year categories. Females are at greater risk of AIS 2+ and AIS 3+ injury compared to males, with increased risk across most injury types.
 
+      - Pipkorn, 2020 [@Pipkorn2020]: Occupant injuries in light passenger vehicles: A {NASS} study to enable priorities for development of injury prediction capabilities of human body models
+
 
 ## New articles
 
