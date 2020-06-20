@@ -20,6 +20,9 @@
 
 - Joodaki, 2019[@Joodaki2019]: Comparison of injuries of belted occupants among different BMI categories in frontal crashes
 
+- Jermakian, 2019[@Jermakian2019]: Factors contributing to serious and fatal injuries in belted rear seat occupants in frontal crashes
+> Rear seat occupants sustained serious and fatal injuries due to belt loading in crashes in which front seat occupants survived, suggesting a discrepancy in restraint performance between the front and rear rows. Restraint strategies that reduce loading to the chest should be considered, but there may be potential tradeoffs with increased head excursion, particularly in the absence of rear seat airbags. Any new restraint designs should consider the unique needs of the rear seat environment.
+
 ## Vulnerable Road Users
 
 - Weaver, 2019[@Weaver2019]: Sarcopenia and osteosarcopenia in seriously injured motor vehicle crash occupants
