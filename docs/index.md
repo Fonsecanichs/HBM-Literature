@@ -15,6 +15,8 @@ Ever read a new article, but spent hours to find it later when you wanted to use
 
 ## New articles
 
+- Wilke, 2020[@Wilke2020]: In vitro Analysis of the Intradiscal Pressure of the Thoracic Spine
+
 - Connor, 2020[@Connor2020]: Inertial properties of a living population for the development of biofidelic headforms
 > The linear equations associated with this new primary data set relate head circumference to head mass and moments of inertia: Head Mass = 0.18 × Head Circumference – 6.08, where mass is in kg and circumference is in cm, while Ixx = 79.88 × Head Mass – 132.88, Iyy = 81.70 × Head Mass – 128.38 and Izz = 53.88 × Head Mass – 86.66, where I is the moment of inertia in kg/cm2 and mass is in kg.
 
