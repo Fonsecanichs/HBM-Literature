@@ -1,8 +1,7 @@
 # Human Body Models: Scientific Literature Collection
 
-**A curated list of recent  literature on injury biomechanics, mostly focused on vehicle/mobility-related safety**
+**A curated list of recent  literature relevant to injury biomechanics, mostly focused on vehicle/mobility-related human safety**
 
-Ever read a new article, but spent hours to find it later when you wanted to use it? This started as a notebook to document interesting literature in Injury Biomechanics.
 
 !!! Note "Pinboard"
 
