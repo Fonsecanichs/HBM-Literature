@@ -3,6 +3,8 @@
 
 ## Abdomen
 
+- Johnson, 2020[@Johnson2020]: Biomechanical Properties of Abdominal Organs Under Tension with Special Reference to Increasing Strain Rate
+
 - Ramachandra 2016, Stapp, PMHS abdominal seat belt loading
 - Howes et al., 2012, Stapp, PMHS experiments using biplanar X-rays, thoracoabdominal contents
 - Lamielle et al., 2008, Stapp, 3D deformation and dynamics of the human cadaver abdomen under seatbelt loading
