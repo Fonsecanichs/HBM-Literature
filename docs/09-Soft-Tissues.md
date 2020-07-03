@@ -1,6 +1,9 @@
 # Miscellaneous
 
 ## Muscles
+
+- Mo, 2020[@Mo2020]: In vitro compressive properties of skeletal muscles and inverse finite element analysis: comparison of human versus animals
+
 - Modenese, 2020[@Modenese_2020]: Automated Generation of Three-Dimensional Complex Muscle Geometries for Use in Personalised Musculoskeletal Models
 
 
